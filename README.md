@@ -9,9 +9,12 @@ Run the following command and allow storage access when prompted:
 ```bash
 termux-setup-storage
 ```
+![Screenshot image](img/01.png)
+
 > **Tip:** Tap **Allow** when prompted.
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/02.png)
+
 
 ---
 
@@ -21,7 +24,9 @@ pkg update && pkg upgrade
 ```
 > Using this to ensures all packages are up-to-date.
 
-![Screenshot image](img/sample.png) 
+![Screenshot image](img/03.png) 
+![Screenshot image](img/04.png)
+![Screenshot image](img/05.png)
 
 ---
 
