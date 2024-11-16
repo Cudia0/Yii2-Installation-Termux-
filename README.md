@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-
 # How to Set Up Yii2 in Termux 📱
 
 ## Follow the steps below to install Yii2:
@@ -17,10 +11,7 @@ termux-setup-storage
 ```
 > **Tip:** Tap **Allow** when prompted.
 
-**Insert Image Here:**
-```html
-<img src="path/to/image1.png" alt="Step 1 Image">
-```
+![Screenshot image](img/sample.png)
 
 ---
 
@@ -30,10 +21,7 @@ pkg update && pkg upgrade
 ```
 > Using this to ensures all packages are up-to-date.
 
-**Insert Image Here:**
-```html
-<img src="path/to/image2.png" alt="Step 2 Image">
-```
+![Screenshot image](img/sample.png) 
 
 ---
 
@@ -43,10 +31,7 @@ Install PHP, Curl, Git, and Unzip:
 pkg install php curl git unzip
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image3.png" alt="Step 3 Image">
-```
+![Screenshot image](img/sample.png)
 
 ---
 
@@ -56,10 +41,7 @@ Install the Composer package to download Yii2:
 pkg install composer
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image4.png" alt="Step 4 Image">
-```
+![Screenshot image](img/sample.png)
 
 ---
 
@@ -69,10 +51,7 @@ Check if Composer is installed correctly:
 composer --version
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image5.png" alt="Step 5 Image">
-```
+![Screenshot image](img/sample.png)
 
 ---
 
@@ -82,10 +61,7 @@ Create a new directory named `yii2`:
 mkdir yii2
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image6.png" alt="Step 6 Image">
-```
+![Screenshot image](img/sample.png)
 
 ---
 
@@ -95,10 +71,8 @@ Use the `ls` command to list files:
 ls
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image7.png" alt="Step 7 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -108,10 +82,8 @@ Change to the `yii2` directory:
 cd yii2
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image8.png" alt="Step 8 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -121,10 +93,8 @@ Run the following Composer command to install Yii2 Basic:
 composer create-project --prefer-dist yiisoft/yii2-app-basic yii2-basic
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image9.png" alt="Step 9 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -134,10 +104,8 @@ List the files in the `yii2-basic` folder:
 ls
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image10.png" alt="Step 10 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -147,10 +115,8 @@ Navigate into the Yii2 Basic folder:
 cd yii2-basic
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image11.png" alt="Step 11 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -160,10 +126,8 @@ List all files in this folder:
 ls
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image12.png" alt="Step 12 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -173,10 +137,8 @@ Change to the `web` folder where the app runs:
 cd web
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image13.png" alt="Step 13 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -186,10 +148,8 @@ Run PHP's built-in server on port 8080:
 php -S localhost:8080
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image14.png" alt="Step 14 Image">
-```
+![Screenshot image](img/sample.png)
+
 
 ---
 
@@ -199,16 +159,10 @@ Open your browser and visit:
 http://localhost:8080
 ```
 
-**Insert Image Here:**
-```html
-<img src="path/to/image15.png" alt="Step 15 Image">
-```
+![Screenshot image](img/sample.png)
 
-<div class="highlight">
-    🎉 TADAA!! Your Yii2 application should now be running locally in port 8080
-</div>
+
+  # **🎉 TADAA!! Your Yii2 application should now be running locally in port 8080** 
+
 
 ---
-
-</body>
-</html>
