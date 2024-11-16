@@ -70,7 +70,11 @@ composer --version
 ```
 
 ![Screenshot image](img/09.png)
-> It suppose to look like this 
+
+
+> It suppose to look like this
+
+
 ![Screenshot image](img/10.png)
 
 
