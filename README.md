@@ -1,6 +1,6 @@
-# How to Set Up Yii2 in Termux 📱
+# How to Set Up Yii2-Basic in Termux
 
-## Follow the steps below to install Yii2:
+## Follow the steps below:
 
 ---
 
@@ -199,8 +199,10 @@ http://localhost:8080
 ![Screenshot image](img/26.png)
 
 
-> **🎉 TADAA!! and thats it Yoe Yii2 application should now be running locally in port 8080**
+> **🎉 TADAA!! and thats it Yoe Yii2-Basic application should now be running locally in port 8080**
 
 
 ![Screenshot image](img/27.png) 
+
+> **Ror byeee**
 ---
