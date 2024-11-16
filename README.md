@@ -1,39 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1 {
-            color: #0056b3;
-            text-align: center;
-            border-bottom: 2px solid #0056b3;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #333;
-            background: #f1f1f1;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .highlight {
-            background: #e3f2fd;
-            padding: 10px;
-            border-left: 5px solid #42a5f5;
-            margin: 10px 0;
-            border-radius: 5px;
-        }
-        img {
-            display: block;
-            margin: 10px auto;
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
 </head>
 <body>
 
