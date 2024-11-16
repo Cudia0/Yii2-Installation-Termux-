@@ -26,10 +26,15 @@ pkg update && pkg upgrade
 
 ![Screenshot image](img/03.png) 
 
+> Input: Capital **Y**
+
 ![Screenshot image](img/04.png)
+
+
 > Input: Capital **Y**
+
+
 ![Screenshot image](img/05.png)
-> Input: Capital **Y**
 
 ---
 
@@ -40,8 +45,10 @@ pkg install php curl git unzip
 ```
 
 ![Screenshot image](img/06.png)
-![Screenshot image](img/07.png)
+
 > Input: Capital **Y**
+
+![Screenshot image](img/07.png)
 
 
 ---
@@ -175,12 +182,21 @@ http://localhost:8080
 ```
 
 ![Screenshot image](img/23.png)
+
+> **ACCESSING THE WEBSITE**
+
 ![Screenshot image](img/24.png)
 ![Screenshot image](img/25.png)
+
+
 > Login using **admin** user and password
+
+
 ![Screenshot image](img/26.png)
 
-### **🎉 TADAA!! Your Yii2 application should now be running locally in port 8080 like this**
+
+> **🎉 TADAA!! and thats it Yoe Yii2 application should now be running locally in port 8080**
+
 
 ![Screenshot image](img/27.png) 
 ---
