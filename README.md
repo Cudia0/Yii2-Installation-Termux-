@@ -25,8 +25,11 @@ pkg update && pkg upgrade
 > Using this to ensures all packages are up-to-date.
 
 ![Screenshot image](img/03.png) 
+
 ![Screenshot image](img/04.png)
+> Input: Capital **Y**
 ![Screenshot image](img/05.png)
+> Input: Capital **Y**
 
 ---
 
@@ -36,7 +39,10 @@ Install PHP, Curl, Git, and Unzip:
 pkg install php curl git unzip
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/06.png)
+![Screenshot image](img/07.png)
+> Input: Capital **Y**
+
 
 ---
 
@@ -46,7 +52,7 @@ Install the Composer package to download Yii2:
 pkg install composer
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/08.png)
 
 ---
 
@@ -56,7 +62,10 @@ Check if Composer is installed correctly:
 composer --version
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/09.png)
+> It suppose to look like this 
+![Screenshot image](img/10.png)
+
 
 ---
 
@@ -66,7 +75,7 @@ Create a new directory named `yii2`:
 mkdir yii2
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/11.png)
 
 ---
 
@@ -76,7 +85,7 @@ Use the `ls` command to list files:
 ls
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/12.png)
 
 
 ---
@@ -87,7 +96,7 @@ Change to the `yii2` directory:
 cd yii2
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/13.png)
 
 
 ---
@@ -98,7 +107,10 @@ Run the following Composer command to install Yii2 Basic:
 composer create-project --prefer-dist yiisoft/yii2-app-basic yii2-basic
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/14.png)
+![Screenshot image](img/15.png)
+![Screenshot image](img/16.png)
+![Screenshot image](img/17.png)
 
 
 ---
@@ -109,7 +121,7 @@ List the files in the `yii2-basic` folder:
 ls
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/18.png)
 
 
 ---
@@ -120,7 +132,7 @@ Navigate into the Yii2 Basic folder:
 cd yii2-basic
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/19.png)
 
 
 ---
@@ -131,9 +143,6 @@ List all files in this folder:
 ls
 ```
 
-![Screenshot image](img/sample.png)
-
-
 ---
 
 ### **13. Navigate to the `web` Folder**
@@ -142,7 +151,7 @@ Change to the `web` folder where the app runs:
 cd web
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/20.png)
 
 
 ---
@@ -153,7 +162,8 @@ Run PHP's built-in server on port 8080:
 php -S localhost:8080
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/21.png)
+![Screenshot image](img/22.png)
 
 
 ---
@@ -164,10 +174,13 @@ Open your browser and visit:
 http://localhost:8080
 ```
 
-![Screenshot image](img/sample.png)
+![Screenshot image](img/23.png)
+![Screenshot image](img/24.png)
+![Screenshot image](img/25.png)
+> Login using **admin** user and password
+![Screenshot image](img/26.png)
 
+### **🎉 TADAA!! Your Yii2 application should now be running locally in port 8080 like this**
 
-  # **🎉 TADAA!! Your Yii2 application should now be running locally in port 8080** 
-
-
+![Screenshot image](img/27.png) 
 ---
